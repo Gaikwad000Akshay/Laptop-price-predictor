@@ -11,6 +11,6 @@ The following ML project include regression techniques for prediction of laptop 
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
+├── Laptop_price.ipynb
+├── Laptop_rf.pkl
 ├── requirements.txt
